@@ -7,7 +7,7 @@ The bokeh server handles the callback that updates the source data.
 
 ## Dependencies
 
-   pip install bokeh numpy
+    pip install bokeh numpy
 
 The app only requires `bokeh` and `numpy` to run
 
@@ -15,7 +15,7 @@ The app only requires `bokeh` and `numpy` to run
 
 Run the app with the following command
 
-   bokeh serve --show bokeh_app.py
+    bokeh serve --show bokeh_app.py
 
 If you have conda installed on windows you can also `edit` and run the .bat script to activate the right environment and serve the app in one click!
 
